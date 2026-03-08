@@ -1,0 +1,90 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures
+MemoryCaptures/
+
+# Asset meta data should only be ignored for binary files
+# (text-based meta files should be committed)
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# =========================
+# Unity Cloud Build
+# =========================
+*.apk
+*.aab
+*.unitypackage
+
+# =========================
+# Visual Studio / Rider
+# =========================
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# Builds
+# =========================
+*.apk
+*.aab
+*.ipa
+*.app
+*.exe
+
+# =========================
+# Addressables
+# =========================
+ServerData/
+
+# =========================
+# JetBrains Rider
+# =========================
+.idea/
+
+# =========================
+# Unity Cache
+# =========================
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+
+# =========================
+# IL2CPP build artifacts
+# =========================
+il2cppOutput/
